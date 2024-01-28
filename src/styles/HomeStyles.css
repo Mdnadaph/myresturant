@@ -1,0 +1,104 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Cookie&family=Tangerine&display=swap');
+
+.home{
+ height: 90vh;
+ width: 100%;
+ display: flex;
+ justify-content: center;
+ align-items: left;
+ flex-direction: column;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.headercontainer{
+    width: auto;
+}
+ .home .headercontainer h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 70px;
+    color: #9f3c96;
+    font-weight: bold;
+    font-family: 'Cookie', cursive;
+ } 
+
+.home .headercontainer p{
+    margin-top:15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    font-size: 40px;
+    font-weight: lighter;
+    color: #9f3c96;
+    font-family: 'Cookie', cursive;
+}
+.home .headercontainer button{
+    background-color: #9f3c96;
+    margin-top: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 50px;
+    width: 180px;
+    color: white;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.btn{
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home .headercontainer button:hover{
+    background-color: #271c6a;
+    color: white;
+    cursor: pointer;
+    transition: 0.3s ease-in;
+}  
+
+
+/* Mobile view */
+
+@media only screen and (max-width:600px){
+    .home{
+        justify-content: center;
+        align-items: center;
+    }
+    .headercontainer{
+        margin-left: 0;
+        margin-top: 150px;
+        border-radius: 10px;
+        width: 80%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        background-color: #9f3c96;
+        color: white;
+        opacity: 0.7;
+    }
+    .home .headercontainer h1{
+        font-size: 40px;
+        height: 30px;
+        margin: 15px 0;
+        color: white;
+    }
+     .home .headercontainer p{
+        font-size: 30px;
+        color: #271c6a;
+        color: white;
+    }
+     .home .headercontainer button{
+        background-color: white;
+        color: #121619;
+        margin-bottom: 30px;
+    }
+}
