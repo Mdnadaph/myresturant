@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/myresturant/static/css/main.6c7fba40.css",
+    "main.js": "/myresturant/static/js/main.b928e7c7.js",
+    "static/js/787.2f06a096.chunk.js": "/myresturant/static/js/787.2f06a096.chunk.js",
+    "static/media/Burgur.jpg": "/myresturant/static/media/Burgur.192ba69289cdd57e8475.jpg",
+    "static/media/girls.jpg": "/myresturant/static/media/girls.9c917721e1ee2f7eed2c.jpg",
+    "static/media/amlet.jpg": "/myresturant/static/media/amlet.19a1de4c9d77983ff759.jpg",
+    "static/media/kera.jpg": "/myresturant/static/media/kera.42c7910bd2f2bcf364c9.jpg",
+    "static/media/vegBurgur.avif": "/myresturant/static/media/vegBurgur.33d97cb6057d5871ab37.avif",
+    "static/media/chhola.jpg": "/myresturant/static/media/chhola.a1458ef1370699c23212.jpg",
+    "static/media/chart.avif": "/myresturant/static/media/chart.e25353a239e0ab83693c.avif",
+    "static/media/paneer.jpg": "/myresturant/static/media/paneer.f04d2c563fe596463e47.jpg",
+    "static/media/team_Work.jpg": "/myresturant/static/media/team_Work.1783ba3452f45a5ab727.jpg",
+    "static/media/gujrati.jpeg": "/myresturant/static/media/gujrati.77bd2d3baa11e6cf3dcd.jpeg",
+    "static/media/dosa.jpg": "/myresturant/static/media/dosa.5c938f456ea86779ba13.jpg",
+    "index.html": "/myresturant/index.html",
+    "main.6c7fba40.css.map": "/myresturant/static/css/main.6c7fba40.css.map",
+    "main.b928e7c7.js.map": "/myresturant/static/js/main.b928e7c7.js.map",
+    "787.2f06a096.chunk.js.map": "/myresturant/static/js/787.2f06a096.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c7fba40.css",
+    "static/js/main.b928e7c7.js"
+  ]
+}
